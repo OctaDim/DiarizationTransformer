@@ -1,0 +1,3 @@
+from diarization_via_local_model.local_model_fuctions.loc_mdl_libs_versions import get_features_versions
+
+get_features_versions()
